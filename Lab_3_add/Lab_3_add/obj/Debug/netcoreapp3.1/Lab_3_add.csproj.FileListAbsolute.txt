@@ -1,0 +1,13 @@
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\bin\Debug\netcoreapp3.1\Lab_3_add.exe
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\bin\Debug\netcoreapp3.1\Lab_3_add.deps.json
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\bin\Debug\netcoreapp3.1\Lab_3_add.runtimeconfig.json
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\bin\Debug\netcoreapp3.1\Lab_3_add.runtimeconfig.dev.json
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\bin\Debug\netcoreapp3.1\Lab_3_add.dll
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\bin\Debug\netcoreapp3.1\Lab_3_add.pdb
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\obj\Debug\netcoreapp3.1\Lab_3_add.csprojAssemblyReference.cache
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\obj\Debug\netcoreapp3.1\Lab_3_add.AssemblyInfoInputs.cache
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\obj\Debug\netcoreapp3.1\Lab_3_add.AssemblyInfo.cs
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\obj\Debug\netcoreapp3.1\Lab_3_add.csproj.CoreCompileInputs.cache
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\obj\Debug\netcoreapp3.1\Lab_3_add.dll
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\obj\Debug\netcoreapp3.1\Lab_3_add.pdb
+E:\KS19\2 курс\ООП\Labs\Lab_3_add\Lab_3_add\obj\Debug\netcoreapp3.1\Lab_3_add.genruntimeconfig.cache
